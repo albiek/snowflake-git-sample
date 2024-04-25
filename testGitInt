@@ -1,0 +1,1 @@
+select 'Testing Git Integration', current_date();
